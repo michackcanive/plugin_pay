@@ -1,0 +1,20 @@
+{
+    "name": "pc/nego_intermediacao",
+    "description": "Ajec intermedia\u0000\u0000o",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michack Canive",
+            "email": "55698720+MichakAntonio@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "inc/"
+        }
+}
+}
